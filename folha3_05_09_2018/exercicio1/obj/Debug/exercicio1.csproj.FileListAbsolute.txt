@@ -1,0 +1,11 @@
+E:\Documents\Visual Studio 2008\Projects\folha3_05_09_2018\exercicio1\bin\Debug\exercicio1.exe
+E:\Documents\Visual Studio 2008\Projects\folha3_05_09_2018\exercicio1\bin\Debug\exercicio1.pdb
+E:\Documents\Visual Studio 2008\Projects\folha3_05_09_2018\exercicio1\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2008\Projects\folha3_05_09_2018\exercicio1\obj\Debug\exercicio1.exe
+E:\Documents\Visual Studio 2008\Projects\folha3_05_09_2018\exercicio1\obj\Debug\exercicio1.pdb
+D:\escola\folha3_05_09_2018\exercicio1\bin\Debug\exercicio1.exe
+D:\escola\folha3_05_09_2018\exercicio1\bin\Debug\exercicio1.pdb
+D:\escola\folha3_05_09_2018\exercicio1\obj\Debug\exercicio1.csprojAssemblyReference.cache
+D:\escola\folha3_05_09_2018\exercicio1\obj\Debug\exercicio1.csproj.CoreCompileInputs.cache
+D:\escola\folha3_05_09_2018\exercicio1\obj\Debug\exercicio1.exe
+D:\escola\folha3_05_09_2018\exercicio1\obj\Debug\exercicio1.pdb

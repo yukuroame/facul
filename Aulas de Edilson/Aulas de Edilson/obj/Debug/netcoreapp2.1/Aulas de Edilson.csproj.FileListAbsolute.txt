@@ -1,0 +1,11 @@
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\obj\Debug\netcoreapp2.1\Aulas de Edilson.csprojAssemblyReference.cache
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\obj\Debug\netcoreapp2.1\Aulas de Edilson.csproj.CoreCompileInputs.cache
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\obj\Debug\netcoreapp2.1\Aulas de Edilson.AssemblyInfoInputs.cache
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\obj\Debug\netcoreapp2.1\Aulas de Edilson.AssemblyInfo.cs
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\bin\Debug\netcoreapp2.1\Aulas de Edilson.deps.json
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\bin\Debug\netcoreapp2.1\Aulas de Edilson.runtimeconfig.json
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\bin\Debug\netcoreapp2.1\Aulas de Edilson.runtimeconfig.dev.json
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\bin\Debug\netcoreapp2.1\Aulas de Edilson.dll
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\bin\Debug\netcoreapp2.1\Aulas de Edilson.pdb
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\obj\Debug\netcoreapp2.1\Aulas de Edilson.dll
+C:\Users\junyu\source\repos\Aulas de Edilson\Aulas de Edilson\obj\Debug\netcoreapp2.1\Aulas de Edilson.pdb

@@ -1,0 +1,11 @@
+C:\Users\junyu\source\repos\novas_experiencias\first\bin\Debug\netcoreapp2.1\first.deps.json
+C:\Users\junyu\source\repos\novas_experiencias\first\bin\Debug\netcoreapp2.1\first.runtimeconfig.json
+C:\Users\junyu\source\repos\novas_experiencias\first\bin\Debug\netcoreapp2.1\first.runtimeconfig.dev.json
+C:\Users\junyu\source\repos\novas_experiencias\first\bin\Debug\netcoreapp2.1\first.dll
+C:\Users\junyu\source\repos\novas_experiencias\first\bin\Debug\netcoreapp2.1\first.pdb
+C:\Users\junyu\source\repos\novas_experiencias\first\obj\Debug\netcoreapp2.1\first.csprojAssemblyReference.cache
+C:\Users\junyu\source\repos\novas_experiencias\first\obj\Debug\netcoreapp2.1\first.csproj.CoreCompileInputs.cache
+C:\Users\junyu\source\repos\novas_experiencias\first\obj\Debug\netcoreapp2.1\first.AssemblyInfoInputs.cache
+C:\Users\junyu\source\repos\novas_experiencias\first\obj\Debug\netcoreapp2.1\first.AssemblyInfo.cs
+C:\Users\junyu\source\repos\novas_experiencias\first\obj\Debug\netcoreapp2.1\first.dll
+C:\Users\junyu\source\repos\novas_experiencias\first\obj\Debug\netcoreapp2.1\first.pdb

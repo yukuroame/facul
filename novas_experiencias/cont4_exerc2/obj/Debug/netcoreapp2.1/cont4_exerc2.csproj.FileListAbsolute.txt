@@ -1,0 +1,10 @@
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\bin\Debug\netcoreapp2.1\cont4_exerc2.deps.json
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\bin\Debug\netcoreapp2.1\cont4_exerc2.runtimeconfig.json
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\bin\Debug\netcoreapp2.1\cont4_exerc2.runtimeconfig.dev.json
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\bin\Debug\netcoreapp2.1\cont4_exerc2.dll
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\bin\Debug\netcoreapp2.1\cont4_exerc2.pdb
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\obj\Debug\netcoreapp2.1\cont4_exerc2.csproj.CoreCompileInputs.cache
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\obj\Debug\netcoreapp2.1\cont4_exerc2.AssemblyInfoInputs.cache
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\obj\Debug\netcoreapp2.1\cont4_exerc2.AssemblyInfo.cs
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\obj\Debug\netcoreapp2.1\cont4_exerc2.dll
+C:\Users\junyu\source\repos\novas_experiencias\cont4_exerc2\obj\Debug\netcoreapp2.1\cont4_exerc2.pdb

@@ -1,0 +1,5 @@
+E:\Documents\Visual Studio 2008\Projects\folha4_11_09_2018\exercicio2\bin\Release\exercicio2.exe
+E:\Documents\Visual Studio 2008\Projects\folha4_11_09_2018\exercicio2\bin\Release\exercicio2.pdb
+E:\Documents\Visual Studio 2008\Projects\folha4_11_09_2018\exercicio2\obj\Release\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2008\Projects\folha4_11_09_2018\exercicio2\obj\Release\exercicio2.exe
+E:\Documents\Visual Studio 2008\Projects\folha4_11_09_2018\exercicio2\obj\Release\exercicio2.pdb

@@ -1,0 +1,11 @@
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\bin\Debug\netcoreapp2.1\exerc7_Online.deps.json
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\bin\Debug\netcoreapp2.1\exerc7_Online.runtimeconfig.json
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\bin\Debug\netcoreapp2.1\exerc7_Online.runtimeconfig.dev.json
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\bin\Debug\netcoreapp2.1\exerc7_Online.dll
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\bin\Debug\netcoreapp2.1\exerc7_Online.pdb
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\obj\Debug\netcoreapp2.1\exerc7_Online.csproj.CoreCompileInputs.cache
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\obj\Debug\netcoreapp2.1\exerc7_Online.AssemblyInfoInputs.cache
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\obj\Debug\netcoreapp2.1\exerc7_Online.AssemblyInfo.cs
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\obj\Debug\netcoreapp2.1\exerc7_Online.dll
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\obj\Debug\netcoreapp2.1\exerc7_Online.pdb
+C:\Users\junyu\source\repos\novas_experiencias\exerc7_Online\obj\Debug\netcoreapp2.1\exerc7_Online.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\escola\folha3_05_09_2018\exercicio4\bin\Debug\netcoreapp2.1\exercicio4.deps.json
+D:\escola\folha3_05_09_2018\exercicio4\bin\Debug\netcoreapp2.1\exercicio4.runtimeconfig.json
+D:\escola\folha3_05_09_2018\exercicio4\bin\Debug\netcoreapp2.1\exercicio4.runtimeconfig.dev.json
+D:\escola\folha3_05_09_2018\exercicio4\bin\Debug\netcoreapp2.1\exercicio4.dll
+D:\escola\folha3_05_09_2018\exercicio4\bin\Debug\netcoreapp2.1\exercicio4.pdb
+D:\escola\folha3_05_09_2018\exercicio4\obj\Debug\netcoreapp2.1\exercicio4.csprojAssemblyReference.cache
+D:\escola\folha3_05_09_2018\exercicio4\obj\Debug\netcoreapp2.1\exercicio4.csproj.CoreCompileInputs.cache
+D:\escola\folha3_05_09_2018\exercicio4\obj\Debug\netcoreapp2.1\exercicio4.AssemblyInfoInputs.cache
+D:\escola\folha3_05_09_2018\exercicio4\obj\Debug\netcoreapp2.1\exercicio4.AssemblyInfo.cs
+D:\escola\folha3_05_09_2018\exercicio4\obj\Debug\netcoreapp2.1\exercicio4.dll
+D:\escola\folha3_05_09_2018\exercicio4\obj\Debug\netcoreapp2.1\exercicio4.pdb

@@ -1,0 +1,11 @@
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\bin\Debug\netcoreapp2.1\exercicio5.deps.json
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\bin\Debug\netcoreapp2.1\exercicio5.runtimeconfig.json
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\bin\Debug\netcoreapp2.1\exercicio5.runtimeconfig.dev.json
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\bin\Debug\netcoreapp2.1\exercicio5.dll
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\bin\Debug\netcoreapp2.1\exercicio5.pdb
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\obj\Debug\netcoreapp2.1\exercicio5.csprojAssemblyReference.cache
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\obj\Debug\netcoreapp2.1\exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\obj\Debug\netcoreapp2.1\exercicio5.AssemblyInfoInputs.cache
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\obj\Debug\netcoreapp2.1\exercicio5.AssemblyInfo.cs
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\obj\Debug\netcoreapp2.1\exercicio5.dll
+C:\Users\junyu\source\repos\folha2_28_08_2018\execicio5\obj\Debug\netcoreapp2.1\exercicio5.pdb

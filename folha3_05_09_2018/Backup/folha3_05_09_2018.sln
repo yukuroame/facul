@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio1", "exercicio1\exercicio1.csproj", "{6912E5A5-C108-4411-8B81-BB08D0DC194B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio2", "exercicio2\exercicio2.csproj", "{4F8160BC-095C-42BD-9A34-BCB58548B66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio3", "exercicio3\exercicio3.csproj", "{BC9E46DE-1B24-4D0E-985A-2EE185C0F932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6912E5A5-C108-4411-8B81-BB08D0DC194B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6912E5A5-C108-4411-8B81-BB08D0DC194B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6912E5A5-C108-4411-8B81-BB08D0DC194B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6912E5A5-C108-4411-8B81-BB08D0DC194B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8160BC-095C-42BD-9A34-BCB58548B66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8160BC-095C-42BD-9A34-BCB58548B66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8160BC-095C-42BD-9A34-BCB58548B66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8160BC-095C-42BD-9A34-BCB58548B66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC9E46DE-1B24-4D0E-985A-2EE185C0F932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9E46DE-1B24-4D0E-985A-2EE185C0F932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9E46DE-1B24-4D0E-985A-2EE185C0F932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9E46DE-1B24-4D0E-985A-2EE185C0F932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
