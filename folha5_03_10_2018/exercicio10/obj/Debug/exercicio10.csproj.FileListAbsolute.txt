@@ -1,0 +1,7 @@
+C:\Users\junyu\source\repos\folha5_03_10_2018\exercicio10\bin\Debug\exercicio10.exe.config
+C:\Users\junyu\source\repos\folha5_03_10_2018\exercicio10\bin\Debug\exercicio10.exe
+C:\Users\junyu\source\repos\folha5_03_10_2018\exercicio10\bin\Debug\exercicio10.pdb
+C:\Users\junyu\source\repos\folha5_03_10_2018\exercicio10\obj\Debug\exercicio10.csprojAssemblyReference.cache
+C:\Users\junyu\source\repos\folha5_03_10_2018\exercicio10\obj\Debug\exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\junyu\source\repos\folha5_03_10_2018\exercicio10\obj\Debug\exercicio10.exe
+C:\Users\junyu\source\repos\folha5_03_10_2018\exercicio10\obj\Debug\exercicio10.pdb
