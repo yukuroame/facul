@@ -17,10 +17,10 @@ namespace exercicio02
 			{
 				Console.WriteLine("Digite o {0}º número.", cont + 1);
 				A[cont] = int.Parse(Console.ReadLine());
-			}
+                B[cont] = A[cont] * 3;
+            }
 			for (cont = 0; cont <= 7; cont++)
 			{
-				B[cont] = A[cont] * 3;
 				Console.WriteLine(B[cont]);
 			}
 			Console.Read();

@@ -11,7 +11,8 @@ namespace exercicio01
 		static void Main(string[] args)
 		{
 			int[] numeros = new int[10];
-			int cont, maior;
+			int cont, maior, x;
+            x = 0;
 			for (cont = 0; cont <= 9; cont++)
 			{
 				Console.WriteLine("Digite o {0}º número.", cont + 1);
@@ -20,17 +21,13 @@ namespace exercicio01
 			maior = numeros[0];
 			for (cont = 1; cont <= 9; cont++)
 			{
-				if (maior < numeros[cont])
-					maior = numeros[cont];
-
-				
+                if (maior < numeros[cont])
+                {
+                    maior = numeros[cont];
+                    x = cont;
+                }
 			}
-			for (cont = 0; cont <= 9; cont++)
-			{
-				if (maior == numeros[cont])
-					Console.WriteLine("O maior número é: {0}, e a posição é: {1}", maior, cont);
-				
-			}
+			Console.WriteLine("O maior número é: {0}, e a posição é: {1}", maior, x);
 			Console.Read();
 		}
 	}

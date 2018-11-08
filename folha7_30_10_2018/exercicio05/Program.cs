@@ -18,20 +18,17 @@ namespace exercicio05
 			{
 				Console.WriteLine("Digite o {0}º caractere de A.", x + 1);
 				A[x] = char.Parse(Console.ReadLine());
+                C[x] = A[x];
 			}
 			for (x = 0; x <= 4; x++)
 			{
 				Console.WriteLine("Digite o {0}º caractere de B.", x + 1);
 				B[x] = char.Parse(Console.ReadLine());
+                C[x+8] = B[x];
 			}
-			for (x = 0; x <= 7; x++)
+            Console.WriteLine("A seguir é do Vetor C.");
+			for (x = 0; x <= 12; x++)
 			{
-				C[x] = A[x];
-				Console.WriteLine(C[x]);
-			}
-			for (x = 0; x <= 4; x++)
-			{
-				C[x] = B[x];
 				Console.WriteLine(C[x]);
 			}
 			Console.Read();
