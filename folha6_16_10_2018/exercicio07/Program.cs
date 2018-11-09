@@ -16,9 +16,9 @@ namespace exercicio07
 			y = 0;
 			par = 0;
 			soma = 0;
-			z = 1;
-			maior = 1;
-			menor = 1;
+			z = 0;
+			maior = 0;
+			menor = 0;
 			while (x != 0)
 			{
 				Console.WriteLine("Digite o número.");
@@ -42,7 +42,6 @@ namespace exercicio07
 					maior = x;
 				}
 				z = x;
-				
 			}
 			media = soma / y;
 			Console.WriteLine("números digitados:{0} \npares: {1} \nMaior valor: {2} \nmenor valor: {3} \nsoma: {4} \nmédia aritmética: {5:0.00}", y, par, maior, menor, soma, media);

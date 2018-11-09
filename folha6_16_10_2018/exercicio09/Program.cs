@@ -10,12 +10,8 @@ namespace exercicio09
 	{
 		static void Main(string[] args)
 		{
-			uint c;
-			float x, y, z;
-			c = 1;
-			x = 1000;
-			y = 1;
-			z = 0;
+			uint c = 1;
+			float x = 1000, y = 1, z = 0;
 			while (c <= 50)
 			{
 				z += x / y;
